@@ -5,7 +5,7 @@ This project is an Internet of Things (IoT) surveillance system built using a Ra
 
 The objective of the project was to design and implement a low-cost, event-driven smart monitoring system capable of autonomous operation.<br>
 
-- <h1>System Architecture</h1> - <br>
+- <h1>System Architecture - </h1><br>
 
 The system consists of:<br>
 
@@ -17,7 +17,7 @@ Raspberry Pi Camera Module (image/video capture)<br>
 
 Software logic for event-driven automation<br>
 
-- <h1>Workflow</h1> - <br>
+- <h1>Workflow</h1> -</h1> <br>
 
 PIR sensor continuously monitors movement.<br>
 
@@ -29,7 +29,7 @@ Image or video is captured and stored locally.<br>
 
 (Optional) Notification or remote access functionality.<br>
 
-- <h1>Technologies Used</h1> -<br>
+- <h1>Technologies Used - </h1><br>
 
 Raspberry Pi OS<br>
 
