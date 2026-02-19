@@ -17,7 +17,7 @@ Raspberry Pi Camera Module (image/video capture)<br>
 
 Software logic for event-driven automation<br>
 
-- <h1>Workflow</h1> -</h1> <br>
+- <h1>Workflow -</h1> <br>
 
 PIR sensor continuously monitors movement.<br>
 
