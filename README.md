@@ -40,3 +40,5 @@ RPi.GPIO library (sensor input control)<br>
 Camera module libraries (e.g., Picamera)<br>
 
 Basic Linux configuration & terminal operations<br>
+
+Built with ❤️ and lots of ☕
